@@ -3,7 +3,7 @@ The files agn.us.txt, ainv.us.txt, ale.us.txt contain complete historical data w
 Each line of these files corresponds to a single day of record of each stock's movement, and has the following format:
 Date, Open, Open, High, Low, Close, Volume, OpenInt
 
-Four different programs have been implemented in C, using the above files as input and each implementing the following functions:
+Four different programs have been implemented in C++, using the above files as input and each implementing the following functions:
 
 1) Sort in ascending order of dates (Date field) based on the opening prices (Open field) of the shares using the Merge Sort and Quick Sort algorithms.
 2) Sort in ascending order of dates (Date field) based on the closing prices (Close field) of the shares using the Heap Sort and Counting Sort algorithms.
