@@ -1,4 +1,7 @@
 # Sorting-and-Searching-Algorithms-for-Data-Analytics
+
+-This project is part of the "Data Structures" course in the Computer Science and Informatics Department of the University of Patras-.
+
 The files agn.us.txt, ainv.us.txt, ale.us.txt contain complete historical data with daily prices for three stocks traded on the NYSE and NASDAQ securities exchanges from 2005 to 2017. Each line of these files corresponds to a single day of record of each stock's movement.
 Each line of these files corresponds to a single day of record of each stock's movement, and has the following format:
 Date, Open, Open, High, Low, Close, Volume, OpenInt
